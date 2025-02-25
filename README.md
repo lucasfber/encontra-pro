@@ -1,4 +1,4 @@
-# 📌 ConectaPro – Plataforma de Conexão entre Clientes e Profissionais Autônomos
+# 📌 EncontraPro – Plataforma de Conexão entre Clientes e Profissionais Autônomos
 
 🔎 **Facilitando a busca por profissionais qualificados na sua região!**
 
